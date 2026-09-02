@@ -1,5 +1,3 @@
-from tabulate import tabulate
-
 # Board representation constants
 PLAYER1_SYMBOL = "🔴"
 PLAYER2_SYMBOL = "🔵"

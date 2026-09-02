@@ -1,6 +1,5 @@
 import streamlit as st
 from board import create_board, EMPTY_SYMBOL, PLAYER1_SYMBOL, PLAYER2_SYMBOL
-from validator import check_player1_victory, check_player2_victory
 from bot import get_bot_move, check_victory
 
 
